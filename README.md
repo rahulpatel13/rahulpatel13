@@ -1,7 +1,7 @@
 
 [![MasterHead](https://github.com/rahulpatel13/rahulpatel13/blob/main/banner.gif)](https://rahulpatel13.github.io/rahul.patel.io/)
 <h1 align="center">Hi 👋, I'm Rahul A. Patel</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://github.com/rahulpatel13/rahulpatel13/blob/main/me.gif">
 <h3 align="center">A passionate Software Developer from India ,currently based in Montreal, Canada</h3>
 
 - 🔭 I’m a Graduate of Master's in Applied Computer Science Science **from Concordia University, Montreal**
