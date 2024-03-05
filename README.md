@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate Software Developer from India ,currently based in Montreal, Canada</h3>
 
-- 🔭 I’m a Graduate of Master's in Applied Computer Science Science **from Concordia University, Montreal**
+- 🔭 I’m a Graduate of Master's in Applied Computer Science **from Concordia University, Montreal**
 
 - 🌱 I’m currently learning **React and doing Cloud Certifications.**
 
