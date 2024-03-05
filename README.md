@@ -1,5 +1,5 @@
 
-[![MasterHead](https://github.com/rahulpatel13/rahulpatel13/blob/main/banner.gif)](https://rahul.patel.io/)
+[![MasterHead](https://github.com/rahulpatel13/rahulpatel13/blob/main/banner.gif)](https://rahulpatel13.github.io/)
 <img align="right" alt="Coding" width="400" src="https://github.com/rahulpatel13/rahulpatel13/blob/main/me.gif">
 <h1 align="center">Hi 👋, I'm Rahul A. Patel</h1>
 
