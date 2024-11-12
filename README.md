@@ -3,15 +3,15 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/rahulpatel13/rahulpatel13/blob/main/me.gif">
 <h1 align="center">Hi 👋, I'm Rahul A. Patel</h1>
 
-<h3 align="center">A passionate Software Developer from India ,currently based in Montreal, Canada</h3>
+<h3 align="center">A passionate Data Engineer from India ,currently based in Toronto, Canada</h3>
 
 - 🔭 I’m a Graduate of Master's in Applied Computer Science **from Concordia University, Montreal**
 
-- 🌱 I’m currently learning **React and doing Cloud Certifications.**
+- 🌱 I’m currently learning ****
 
-- 💻 As a Software Developer and freelancer **I'm well versed with various technologies and software development languages and tools such as Java, Python, JavaScript, Flask, RESTAPI, Spring, JSON, HTML, PHP, SQL/NoSQL databases and AWS**
+- 💻 As a Data Engineer and freelancer **I'm well versed with various technologies, languages and tools such as Python , Pandas, SQL, AWS, Snowflake, Databricks and Azure**
 
-- 💬 Ask me about **Data Structures and Algorithms, Cloud, Java and AI/ML**
+- 💬 Ask me about **Data Structures and Algorithms, Cloud, Python and AI/ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
