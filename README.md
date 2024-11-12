@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning ****
 
-- 💻 As a Data Engineer and freelancer **I'm well versed with various technologies, languages and tools such as Python , Pandas, SQL, AWS, Snowflake, Databricks and Azure**
+- 💻 As a Data Engineer and freelancer ** I'm well versed with various technologies, languages and tools such as Python , Pandas, SQL, AWS, Snowflake, Databricks and Azure **
 
 - 💬 Ask me about **Data Structures and Algorithms, Cloud, Python and AI/ML**
 
